@@ -19,11 +19,9 @@ function logWhisper(string) {
 
 
 function sayHiToGrandma(string) {
-  if {
-    else if{
-      else{
-    }
-  }
+  if (string.)
+  
+}
   
   
   
